@@ -1,5 +1,5 @@
   $(document).ready(function () {
-    var allowedUrls = ["www.myurl.com", "www.anotherurl.com"]; // Add allowed URLs to this array
+    var allowedUrls = ["www.myurl.com", "aglytch.blogspot.com"]; // Add allowed URLs to this array
     var currentUrl = window.location.hostname;
 
     // Check if the current URL is not in the allowedUrls array
