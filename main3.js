@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    var allowedUrls = ["www.myurl.com", "www.anotherurl.com"];
+    var allowedUrls = ["localhost/webx/wordpress/", "www.anotherurl.com"];
     var currentUrl = window.location.hostname;
 
     // Check if the current URL is not in the allowedUrls array
